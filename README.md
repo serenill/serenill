@@ -1,6 +1,6 @@
 # Hello, I'm Serenill 👋
 
-## Python Developer ![python_logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+## Python Developer ![python_logo](/C:/python_logo.png)
 
 I'm a software developer specialized in Python. 
 
