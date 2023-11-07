@@ -1,6 +1,6 @@
 # Hello, I'm Serenill 👋
 
-## Python Developer ![python_logo](/C:/python_logo.png)
+## Python Developer [![python](https://cdn3.emoji.gg/emojis/1887_python.png)](https://emoji.gg/emoji/1887_python)
 
 I'm a software developer specialized in Python. 
 
